@@ -1,0 +1,9 @@
+@font-face {
+	font-family: data;
+	src: url('data-unifon.ttf');
+}
+#t1 {
+    font-family: data;
+    color: #4c0080;
+    background-color: white;
+}
