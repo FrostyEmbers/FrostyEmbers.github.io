@@ -1,9 +1,5 @@
-@font-face {
-	font-family: data;
-	src: url('data-unifon.ttf');
-}
-#t1 {
-    font-family: data;
+body {
+    font-family: 'Aldrich';font-size: 22px;
     color: #4c0080;
     background-color: white;
 }
